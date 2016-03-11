@@ -1,0 +1,5 @@
+return {
+	plugins = {
+	'g.lua'
+	}
+}
