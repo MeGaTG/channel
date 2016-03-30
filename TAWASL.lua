@@ -6,8 +6,8 @@ JSON = require('@dev_mico')
 HTTPS = require('ssl.https')
 dofile('utilities.lua')
 ----config----
-local bot_api_key = "144240146:AAG8vaek5Ix5fx_NZxN2OFtyVeaN1UTbUTM"
-local you = 171114902 --your id
+local bot_api_key = "190562041:AAG5Xoe8grlo8SuLJ4FL8aDOk5uLPTR2jaA"
+local you = 152321430 --your id
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 
 local nl = [[bye]]--put any welcome message between [[]]
